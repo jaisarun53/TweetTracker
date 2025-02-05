@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    ".envdot": "link:.envdot",
     "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "openai": "^4.82.0",
     "typescript": "^5.7.3"
   }
 }
